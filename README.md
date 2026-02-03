@@ -41,7 +41,7 @@ I enjoy turning raw data into meaningful insights and continuously learning new 
 ---
 
 ## 🎓 Education
-- Bachelor’s Degree – Vaageswari College Of Engineering
+- Bachelor’s Degree in Engineering – Vaageswari College Of Engineering
 - Year of Graduation: 2025
 
 ---
