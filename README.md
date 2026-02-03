@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishnu Vardhan
 
-<!--
-**vishnuvardhan0445/vishnuvardhan0445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Entry-Level Python Developer | Data Analyst Fresher  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I am a passionate Python and Data Analysis fresher with hands-on experience in
+Exploratory Data Analysis (EDA), data cleaning, and visualization.
+I enjoy turning raw data into meaningful insights and continuously learning new technologies.
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Databases:** MySQL, SQL  
+- **Concepts:** EDA, OOPs, DSA Basics  
+- **Tools:** Jupyter Notebook, GitHub, VS Code ,PyCharm
+
+---
+
+## 📊 Projects
+### 🔹 Google Play Store Data Analysis
+- Performed EDA using Python and Pandas
+- Cleaned and analyzed app ratings, installs, and categories
+- Created visual insights using Matplotlib and Seaborn
+
+### 🔹 Employee Salary Analysis
+- Analyzed salary distribution and experience vs salary trends
+- Department-wise comparison using visualizations
+- Extracted insights to support HR decision-making
+
+### 🔹 Python MySQL Database Connection
+- Connected Python with MySQL using connectors
+- Performed CRUD operations
+- Demonstrated real-world database integration
+
+---
+
+## 🎓 Education
+- Bachelor’s Degree – Vaageswari College Of Engineering
+- Year of Graduation: 2025
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/vishnuvardhan0445
+- LinkedIn: https://www.linkedin.com/in/rangu-vishnuvardhan
+- Email: ranguvishnu0445@gmail.com
+
+---
+
+⭐ *Open to entry-level Python Developer / Data Analyst opportunities*
